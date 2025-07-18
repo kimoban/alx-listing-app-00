@@ -147,7 +147,7 @@ Edit
 npm run dev
 Open http://localhost:3000 to view it in your browser.
 
-✅ Functional Requirements Checklist
+### ✅ Functional Requirements Checklist
  Hero section implemented
 
  Layout components (Header, Footer, Layout)
@@ -160,7 +160,7 @@ Open http://localhost:3000 to view it in your browser.
 
  Responsive design with Tailwind CSS
 
-🧠 Learning Objectives Met
+### 🧠 Learning Objectives Met
 ✅ Implement responsive web design with Tailwind CSS
 
 ✅ Use TypeScript for typing components and data
@@ -173,7 +173,7 @@ Open http://localhost:3000 to view it in your browser.
 
 ✅ Organize project with logical folder hierarchy
 
-📌 Future Improvements
+### 📌 Future Improvements
 ✅ Lazy loading images
 
 ❌ Sorting by price/rating
@@ -184,10 +184,10 @@ Open http://localhost:3000 to view it in your browser.
 
 ❌ Pagination / infinite scroll
 
-📜 License
+### 📜 License
 This project is licensed under the MIT License.
 
-🤝 Acknowledgments
+### 🤝 Acknowledgments
 Developed as part of the ALX Frontend ProDev Milestone 2 challenge.
 
 Thanks to the ALX team and community for the learning journey!
